@@ -3,7 +3,7 @@
 ## Overview
 This project implements a comprehensive risk intelligence system for fintech transactions. It includes:
 1. A fully-featured risk scoring model notebook
-2. A Streamlit dashboard for visualizing and monitoring transactions
+2. A Streamlit UI for visualizing and monitoring transactions
 3. A REST API for real-time risk scoring of transactions
 
 ## Interface
