@@ -6,6 +6,21 @@ This project implements a comprehensive risk intelligence system for fintech tra
 2. A Streamlit dashboard for visualizing and monitoring transactions
 3. A REST API for real-time risk scoring of transactions
 
+## Interface
+
+**STREAMLIT UI**
+
+<img width="1455" height="899" alt="Screenshot 2025-08-06 at 6 32 48 PM" src="https://github.com/user-attachments/assets/fbab15ef-af01-4057-aba4-cfcb838ca080" />
+
+
+_________________________
+
+**FASTAPI DOCUMENTATION**
+
+<img width="1122" height="846" alt="Screenshot 2025-08-06 at 6 28 47 PM" src="https://github.com/user-attachments/assets/ae621e86-9701-47e3-86d2-100e22ebd443" />
+
+_________________________
+
 ## Project Structure
 ```
 fintech_transaction_risk_intelligence_system/
@@ -94,8 +109,7 @@ fintech_transaction_risk_intelligence_system/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fraud_detection_model.git
-cd fraud_detection_model/fintech_transaction_risk_intelligence_system
+git clone https://github.com/udhtaz/fintech_transaction_risk_intelligence_system.git
 ```
 
 2. Install dependencies:
