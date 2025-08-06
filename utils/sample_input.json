@@ -1,0 +1,11 @@
+{
+  "amount_foreign": 51.2064573896073,
+  "is_foreign_transaction": 1,
+  "is_high_risk_country": 0,
+  "previous_fraud_flag": 0,
+  "risk_score": 0.816452775667711,
+  "rolling_std_amount": 117.75043655117945,
+  "rolling_mean_amount": 110.45168786900427,
+  "hours_since_last_tx": 50.0,
+  "amount_hour": 512.0645738960731
+}

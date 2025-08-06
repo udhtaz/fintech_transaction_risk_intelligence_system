@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  fraud-detection:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8000:8000"  # API
+      - "8501:8501"  # Dashboard
+    volumes:
+      - ../models:/app/models
+      - ../datasets:/app/datasets
+    environment:
+      - PYTHONPATH=/app
